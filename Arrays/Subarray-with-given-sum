@@ -1,0 +1,42 @@
+class Solution
+{
+    public:
+    //Function to find a continuous sub-array which adds up to a given number.
+    vector<int> subarraySum(vector<int>arr, int n, long long s)
+    {
+        // Your code here
+        long long currSum = arr[0];
+        int p1 = 0, p2 = 0; //left and right
+        
+        if(s == 0)
+        {
+            return {-1};
+        }
+        
+        if(currSum == s)
+        {
+            return {1,1};
+        }
+        
+        while(p2 < n-1)
+        {
+            if(currSum + arr[p2+1] <= s)
+            {
+                currSum += arr[p2+1];
+                p2++;
+            }
+            else
+            {
+                currSum -= arr[p1];
+                p1++;
+            }
+            
+            if(currSum == s)
+            {
+                return {p1+1,p2+1};
+            }
+        }
+        
+        return {-1};
+    }
+};
