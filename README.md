@@ -12,6 +12,8 @@ Topic-wise CP Problems solved from various website💻 Hope it helps in your Pla
 
 ### [Strings](https://github.com/JoelVStan/CP-Practice-Problems/tree/main/String)
 
-✔ Unique character string - WEB LINK | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/unique-string.cpp)
+✔ Unique character string - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/unique-string.cpp)
 
-✔ String Permutation - WEB LINK | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/string-permuation.cpp)
+✔ String Permutation - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/string-permuation.cpp)
+
+✔ URLify - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/URLify.cpp)
