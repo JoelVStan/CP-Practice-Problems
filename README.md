@@ -23,3 +23,6 @@ Topic-wise CP Problems solved from various website💻 Hope it helps in your Pla
 ✔ One Away - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/one-away.cpp)
 
 ✔ String Compression - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/string-compression.cpp)
+
+✔ Anagram - [WEB LINK](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/anagram.cpp)
+
