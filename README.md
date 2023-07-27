@@ -19,3 +19,5 @@ Topic-wise CP Problems solved from various website💻 Hope it helps in your Pla
 ✔ URLify - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/URLify.cpp)
 
 ✔ Reverse words in a given string - [WEB LINK](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/reverse-words.cpp)
+
+✔ One Away - Cracking the Coding Interview Book | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/one-away.cpp)
