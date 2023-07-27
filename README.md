@@ -26,3 +26,5 @@ Topic-wise CP Problems solved from various website💻 Hope it helps in your Pla
 
 ✔ Anagram - [WEB LINK](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/anagram.cpp)
 
+✔ Palindrome String - [WEB LINK](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/palindrome-string.cpp)
+
