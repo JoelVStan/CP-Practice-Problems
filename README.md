@@ -28,3 +28,7 @@ Topic-wise CP Problems solved from various website💻 Hope it helps in your Pla
 
 ✔ **Palindrome String** - [WEB LINK](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/palindrome-string.cpp)
 
+✔ **Non repeating characters** - [WEB LINK](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&difficulty[]=0&category[]=Strings&sortBy=submissions) | [SOLUTION](https://github.com/JoelVStan/CP-Practice-Problems/blob/main/String/non-repeating-chars.cpp)
+
+
+
